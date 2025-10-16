@@ -17,4 +17,4 @@ Hey! This repo is my one-stop hub for the [Data Analysis with Python](https://ww
 | [Sea Level Predictor](sea-level-predictor/) | Models rising sea levels with linear regression and scatter plots future predictions. | Pandas, SciPy, Matplotlib | [Open](sea-level-predictor/) |
 
 ## Setup & Run (2-Minute Start)
-1. Clone the repo:  
+1. Clone the repo:  git clone https://github.com/akashpannala/FreeCodeCamp.git
